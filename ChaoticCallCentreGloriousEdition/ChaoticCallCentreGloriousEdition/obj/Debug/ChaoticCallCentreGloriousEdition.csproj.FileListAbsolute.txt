@@ -1,0 +1,11 @@
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\bin\Debug\ChaoticCallCentreGloriousEdition.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\bin\Debug\ChaoticCallCentreGloriousEdition.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\bin\Debug\ChaoticCallCentreGloriousEdition.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\bin\Debug\CallManager.dll
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\bin\Debug\CallManager.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\ChaoticCallCentreGloriousEdition.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\ChaoticCallCentreGloriousEdition.frmMain.resources
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\ChaoticCallCentreGloriousEdition.Properties.Resources.resources
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\ChaoticCallCentreGloriousEdition.csproj.GenerateResource.Cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\ChaoticCallCentreGloriousEdition.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\ChaoticCallCentreGloriousEdition.pdb

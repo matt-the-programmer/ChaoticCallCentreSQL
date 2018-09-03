@@ -1,0 +1,6 @@
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\Privacy and Ethics Form.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\ChaoticCallCentreGloriousEdition.frmMain.resources
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\ChaoticCallCentreGloriousEdition.Properties.Resources.resources
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\Privacy and Ethics Form.csproj.GenerateResource.Cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\ChaoticCallCentreGloriousEdition.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\ChaoticCallCentreGloriousEdition\obj\Debug\ChaoticCallCentreGloriousEdition.pdb

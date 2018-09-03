@@ -1,0 +1,4 @@
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\CallManager\bin\Debug\CallManager.dll
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\CallManager\bin\Debug\CallManager.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\CallManager\obj\Debug\CallManager.dll
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\ChaoticCallCentreGloriousEdition\CallManager\obj\Debug\CallManager.pdb
